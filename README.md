@@ -1,0 +1,3 @@
+# admin_king
+
+framework for generating separated code of admin panel... coming soon...
